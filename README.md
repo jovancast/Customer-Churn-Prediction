@@ -8,8 +8,8 @@ The aim of this project is to predict the churn rate of telco customer based on 
 You can get the dataset I used for this project [here](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 You can also access the Model Deployment for this project!
-[Huggingface:](https://huggingface.co/spaces/jovancast/Churn_Prediction)
-[Koyeb:](https://churn-jovancast.koyeb.app/)
+Click here to open the [Huggingface:](https://huggingface.co/spaces/jovancast/Churn_Prediction)
+Click here to open the [Koyeb:](https://churn-jovancast.koyeb.app/)
 
 # Library Used
 1. Pandas
